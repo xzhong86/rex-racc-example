@@ -1,6 +1,7 @@
 
 # Simple C Language Parser
 
+`./run.sh` to test the code.
 
 ## Refer To
 
