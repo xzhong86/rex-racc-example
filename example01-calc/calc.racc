@@ -59,3 +59,4 @@ test_expr calc, "(1 + 2) * 3"
 test_expr calc, "(1 + 2.3) * 3.1"
 test_expr calc, "1+2+3 # comment"
 test_expr calc, "1+2+3 # comment\n +1 #comment2\n + 4"
+
